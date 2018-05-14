@@ -1,7 +1,6 @@
 ## 好運蕃茄鐘
 
 此應用程式主要功能為提供番茄工作法，也就是每工作25分鐘即休息5分鐘，專注工作有助於提升效率！
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 簡介
 
