@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 好運蕃茄鐘
 
-You can use the [editor on GitHub](https://github.com/stephenholbrok/htomatotimer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+此應用程式主要功能為提供番茄工作法，也就是每工作25分鐘即休息5分鐘，專注工作有助於提升效率！
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 簡介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主要功能：
+開始工作：每一個工作週期結束即為一顆蕃茄
+暫停工作：隨時可以暫停工作計時
+停止工作：工作告一段落了嗎？先停止吧！
+跳過休息時間：不想休息嗎？雖然我們建議你休息是為了走更長遠的路，但此應用仍然支援直接跳過休息時間！
 
-```markdown
-Syntax highlighted code block
+選單功能：
+工作時間設定：提供幾個建議的工作時間供你自由選擇！
+休息時間設定：提供幾個建議的休息時間供你自由選擇！
 
-# Header 1
-## Header 2
-### Header 3
+## -7.0新功能
 
-- Bulleted
-- List
+1. 重大更新推播通知
+2. 新增幾個常用的工作時間以及休息時間
+3. UI調整改善
+4. 新增關於我頁面
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephenholbrok/htomatotimer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
