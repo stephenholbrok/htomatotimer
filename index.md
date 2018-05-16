@@ -1,6 +1,6 @@
-## 好運蕃茄鐘
+## 好運國際版蕃茄鐘：HaoYuanTomatotimer
 
-![圖片失效](/img/icon_round.png) 此應用程式主要功能為提供番茄工作法，也就是每工作25分鐘即休息5分鐘，專注工作有助於提升效率！
+![圖片失效](/img/icon_round.png) 此應用程式主要功能為提供番茄工作法，也就是每工作25分鐘即休息5分鐘，專注工作有助於提升效率！:blush:
 
 ## 簡介
 
@@ -12,7 +12,15 @@
 
 選單功能：  
 工作時間設定：提供幾個建議的工作時間供你自由選擇！  
-休息時間設定：提供幾個建議的休息時間供你自由選擇！  
+休息時間設定：提供幾個建議的休息時間供你自由選擇！ 
+
+## 應用截圖 
+<figure class="third">
+    <img src="/img/ScreenShot_1.png" width="150">
+    <img src="/img/ScreenShot_2.png" width="150">
+    <img src="/img/ScreenShot_3.png" width="150">
+</figure>
+
 
 ### -7.0新功能
 
