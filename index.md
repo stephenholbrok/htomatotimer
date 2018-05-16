@@ -16,7 +16,7 @@
 
 ## 應用截圖 
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="150px" alt="截圖" >
 </div>
 
