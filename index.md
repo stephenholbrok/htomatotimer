@@ -21,9 +21,9 @@
 </div>
 
 <figure class="third">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png" width="50px">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="50px">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="50px">
 </figure>
 
 
