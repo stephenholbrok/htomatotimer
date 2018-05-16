@@ -14,20 +14,6 @@
 工作時間設定：提供幾個建議的工作時間供你自由選擇！  
 休息時間設定：提供幾個建議的休息時間供你自由選擇！ 
 
-## 應用截圖 
-
-<div align="left">
-<img src="/img/ScreenShot_1.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="150px" alt="截圖" >
-</div>
-
-<figure class="third">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png" width="50px">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="50px">
-    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="50px">
-</figure>
-
-
-
 ### -7.0新功能
 
 1. 重大更新推播通知
