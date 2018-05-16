@@ -21,3 +21,6 @@
 3. UI調整改善
 4. 新增關於我頁面
 
+## Contact Me
+E-mail:stephenholbrok@outlook.com
+
