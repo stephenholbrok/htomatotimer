@@ -17,8 +17,14 @@
 ## 應用截圖 
 
 <div align="left">
-<img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="150px" alt="截圖" >
+<img src="/img/ScreenShot_1.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="150px" alt="截圖" >
 </div>
+
+<figure class="third">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png">
+    <img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png">
+</figure>
 
 
 
