@@ -20,7 +20,7 @@
     <img src="/img/ScreenShot_2.png" width="150">
     <img src="/img/ScreenShot_3.png" width="150">
 </figure>
-
+![圖片失效](/img/ScreenShot_1.png) ![圖片失效](/img/ScreenShot_2.png) ![圖片失效](/img/ScreenShot_3.png)
 
 ### -7.0新功能
 
