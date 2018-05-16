@@ -15,12 +15,7 @@
 休息時間設定：提供幾個建議的休息時間供你自由選擇！ 
 
 ## 應用截圖 
-<figure class="third">
-    <img src="/img/ScreenShot_1.png" width="150">
-    <img src="/img/ScreenShot_2.png" width="150">
-    <img src="/img/ScreenShot_3.png" width="150">
-</figure>
-![圖片失效](/img/ScreenShot_1.png) ![圖片失效](/img/ScreenShot_2.png) ![圖片失效](/img/ScreenShot_3.png)
+![圖片失效](/img/ScreenShot_1.png=50%) ![圖片失效](/img/ScreenShot_2.png=50%) ![圖片失效](/img/ScreenShot_3.png=50%)
 
 ### -7.0新功能
 
