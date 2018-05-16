@@ -15,7 +15,12 @@
 休息時間設定：提供幾個建議的休息時間供你自由選擇！ 
 
 ## 應用截圖 
-![圖片失效](/img/ScreenShot_1.png =50%x50%) ![圖片失效](/img/ScreenShot_2.png =50%x50%) ![圖片失效](/img/ScreenShot_3.png =50%x50%)
+
+<div align="center">
+<img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_1.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_2.png" width="150px" alt="截圖" ><img src="https://github.com/stephenholbrok/htomatotimer/blob/master/img/ScreenShot_3.png" width="150px" alt="截圖" >
+</div>
+
+
 
 ### -7.0新功能
 
